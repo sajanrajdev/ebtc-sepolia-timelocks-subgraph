@@ -3,6 +3,9 @@
     "LowSecTimelock": {
       "address": "0xaADf07C98E2420E4d995Ba41Db53399648f50076",
       "startBlock": 5315930
+    },
+    "HighSecTimelock": {
+      "address": "0x0393846e97ab5Ec1DC8CB7A59Ee8505F72A6aEEb"
     }
   }
 }
